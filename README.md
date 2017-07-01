@@ -1,9 +1,9 @@
 # BitmapCoDecoders
-24位真彩色位图文件的解码和编码
+24位真彩色位图文件的解码和编码</br>
 
-编译
-  g++ main.cpp -o main
-使用
-  main demo.bmp 01.bmp
-  demo.bmp 待解码的 bmp 文件
-  01.bmp   解码后的 bmp 文件
+编译</br>
+  g++ main.cpp -o main</br>
+使用</br>
+  main demo.bmp 01.bmp</br>
+  demo.bmp 待解码的 bmp 文件</br>
+  01.bmp   解码后的 bmp 文件</br>
